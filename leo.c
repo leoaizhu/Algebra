@@ -1,15 +1,15 @@
 #include <stdio.h>
 
 int main(){
-    printf("Codigo para Eliminação de Gauss\n");
+    printf("Codigo de Gauss\n");
     float pivo;
     int n = 3;
     int k;
 
     float matriz[3][4] = {
-        {1, 1, 1, 6},
-        {2, 3, 7, 20},
-        {1, 3, 4, 14},
+        {1, 2, 1, 8},
+        {2, 1, 3, 17},
+        {3, 3, 2, 20},
     };
 
 
