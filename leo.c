@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
+    printf("Codigo para Eliminação de Gauss\n");
     float pivo;
     int n = 3;
     int k;
